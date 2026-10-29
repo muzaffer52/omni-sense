@@ -3,7 +3,7 @@
 
 > Engelli bireylerin teknoloji ile etkileşimini **T
 
-urkcell 5G altyapısı + Edge Computing + BiP entegrasyonu** ile optimize eden, kendi kendini iyileştiren kapsamlı platform.
+Turkcell 5G altyapısı + Edge Computing + BiP entegrasyonu** ile optimize eden, kendi kendini iyileştiren kapsamlı platform.
 
 ---
 
